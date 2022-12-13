@@ -1,7 +1,7 @@
-mayor =200;
-a =99;
+b=int (input())
+a=int (input())
 res = 0;
-while a<mayor:
+while a<b:
     a =a +1
     cont = 1
     print ("w1")
